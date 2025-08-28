@@ -82,7 +82,7 @@ npx serve .
 
 ## 📁 서브 프로젝트
 
-### 🎓 kode:vibe Bootcamp
+### 🎓 kode:vibeCamp
 - **URL**: `https://kt-ax-build.github.io/bootcamp/`
 - **설명**: AI 에이전틱 기술을 활용한 현대적 소프트웨어 개발 방법론 교육 과정
 - **기술**: MkDocs Material, Python, uv
