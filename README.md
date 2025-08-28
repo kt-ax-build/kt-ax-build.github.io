@@ -25,8 +25,8 @@ KT AX Build TF는 AI 기술을 활용한 혁신적인 솔루션 개발과 AI 문
 kt-ax-build.github.io/
 ├── index.html              # 메인 페이지
 ├── styles.css              # 스타일시트
-├── bootcamp/               # AI Agentic Bootcamp 사이트
-└── hackathon/              # AI Agentic Hackathon
+├── bootcamp/               # kode:vibe Bootcamp 사이트
+└── hackathon/              # kode:vibeJam Hackathon
 ```
 
 ## 🛠️ 기술 스택
@@ -82,12 +82,12 @@ npx serve .
 
 ## 📁 서브 프로젝트
 
-### 🎓 AI Agentic Bootcamp
+### 🎓 kode:vibe Bootcamp
 - **URL**: `https://kt-ax-build.github.io/bootcamp/`
 - **설명**: AI 에이전틱 기술을 활용한 현대적 소프트웨어 개발 방법론 교육 과정
 - **기술**: MkDocs Material, Python, uv
 
-### 🏆 AI Agentic Hackathon
+### 🏆 kode:vibeJam
 - **URL**: `https://kt-ax-build.github.io/hackathon/`
 - **설명**: AI 혁신을 위한 해커톤 및 경진대회 플랫폼
 - **기술**: (추후 업데이트 예정)
